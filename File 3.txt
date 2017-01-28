@@ -1,1 +1,3 @@
 New file 3 text in master branch
+
+More stashed changes

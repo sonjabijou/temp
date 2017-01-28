@@ -3,3 +3,5 @@ Initial file 1 text in master branch
 Additional work on file 1
 
 3rd change to file 1
+
+Amended changes
