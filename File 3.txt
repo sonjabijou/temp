@@ -3,3 +3,5 @@ New file 3 text in master branch
 More stashed changes
 
 La dee da.
+
+v2.0 changes here too.
